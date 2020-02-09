@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import CardList from './CardList';
 import Searchbox from './Searchbox';
-import { robots } from './robots';
 
 class App extends Component {
   constructor() {
